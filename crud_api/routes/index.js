@@ -1,0 +1,1 @@
+exports.fav = require('./fav');
