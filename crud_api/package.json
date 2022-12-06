@@ -56,7 +56,7 @@
     "proxy-addr": "^2.0.5",
     "psl": "^1.4.0",
     "punycode": "^2.1.1",
-    "qs": "^6.7.0",
+    "qs": "^6.9.7",
     "range-parser": "^1.2.1",
     "regexp-clone": "^1.0.0",
     "require_optional": "^1.0.1",
